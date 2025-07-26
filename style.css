@@ -1,4 +1,11 @@
-
+/* The class and id are used for naming and using it for selecting the items in the css*/
+/* exmaple*/
+.redd{
+    color: red ;
+}
+#Redd{
+    color: rebeccapurple;   
+}
 #Nav{
     background-color:rebeccapurple ;    
     color: white;
