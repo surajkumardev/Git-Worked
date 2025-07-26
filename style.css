@@ -1,10 +1,15 @@
-h1{
-    size:0cap;
-    color: red;
-    background-color: yellow;
+
+#Nav{
+    background-color:rebeccapurple ;    
+    color: white;
 }
-h2{
-    background: red;
-    background-color: red;
-    
+a{
+    color: white;
+}
+#NextLine{
+    background-color: black;
+}
+
+body{
+    color: black;
 }
